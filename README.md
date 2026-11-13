@@ -66,7 +66,7 @@ status    : Open for collaboration
 
 <a href="https://github.com/Syakigrodan"><img src="https://img.shields.io/badge/GitHub-Syakigrodan-0d1117?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117&color=00ff41" alt="github" /></a>
 
-<a href="www.linkedin.com/in/syakirana-aurieli-pasa-3a34a9387"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41&color=00ff41" alt="linkedin" /></a>
+<a href="https://www.linkedin.com/in/syakirana-aurieli-pasa-3a34a9387/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41&color=00ff41" alt="linkedin" /></a>
 <a href="https://www.instagram.com/sy4k1_"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00ff41&color=00ff41" alt="instagram" /></a>
 
 
