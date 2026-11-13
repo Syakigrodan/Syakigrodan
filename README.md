@@ -1,5 +1,4 @@
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Syakigrodan&theme=github_dark" alt="stats" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Syakigrodan&theme=github_dark" alt="top languages" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=220&section=header&text=Hi,%20I'm%20Syaki&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Terminal%20Enthusiast&descSize=18&descAlignY=58" width="100%" alt="header" />
 
 <div align="center">
 
@@ -40,8 +39,8 @@ status    : Open for collaboration
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Syakigrodan&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=00ff41" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syakigrodan&layout=compact&theme=dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41" alt="top languages" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Syakigrodan&theme=github_dark" alt="stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Syakigrodan&theme=github_dark" alt="top languages" />
 
 <br/>
 
