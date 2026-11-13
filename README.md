@@ -65,10 +65,10 @@ status    : Open for collaboration
 <div align="center">
 
 <a href="https://github.com/Syakigrodan"><img src="https://img.shields.io/badge/GitHub-Syakigrodan-0d1117?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117&color=00ff41" alt="github" /></a>
-<!-- Tambahkan sosial media lain, contoh:
+
 <a href="https://www.linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41&color=00ff41" alt="linkedin" /></a>
 <a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00ff41&color=00ff41" alt="instagram" /></a>
--->
+
 
 <br/><br/>
 
