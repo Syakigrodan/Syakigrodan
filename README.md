@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=220&section=header&text=Hi,%20I'm%20Syaki&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Terminal%20Enthusiast&descSize=18&descAlignY=58" width="100%" alt="header" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Syakigrodan&theme=github_dark" alt="stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Syakigrodan&theme=github_dark" alt="top languages" />
 
 <div align="center">
 
