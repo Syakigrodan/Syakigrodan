@@ -22,7 +22,7 @@ syaki = {
     "location": "Indonesia",
     "focus": ["Web Dev (Frontend + Backend)", "Mobile App Dev", "AI"],
     "stack": ["HTML", "CSS", "JavaScript", "React", "Next.js", "PHP", "Laravel", "Java", "Python", "SQL"],
-    "currently": "Belajar & bikin project web, mobile, dan AI",
+    "currently": "Learning & building web, mobile, and AI projects",
     "motto": "Learn, Build, Repeat",
     "status": "Open for collaboration",
 }
